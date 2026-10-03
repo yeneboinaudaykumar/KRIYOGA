@@ -1,0 +1,6 @@
+{
+  "name": "KRIYOGA",
+  "description": "AI Agriculture Platform for Indian Farmers with crop disease detection, weather alerts, soil advisory, market prices, and multilingual voice assistant in Telugu, Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

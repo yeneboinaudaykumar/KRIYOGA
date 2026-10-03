@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KRIYOGA</string>
+    <string name="app_tagline">Smart AI Agriculture for Indian Farmers</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_crops">Crops &amp; Health</string>
+    <string name="tab_advisory">Advisory &amp; Soil</string>
+    <string name="tab_mandi">Mandi &amp; Market</string>
+    <string name="tab_ai_guru">Krishi Guru AI</string>
+</resources>
